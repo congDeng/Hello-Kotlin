@@ -1,9 +1,10 @@
-import org.junit.jupiter.api.Assertions
+package excel
+
 import org.junit.jupiter.api.Test
 
 import org.junit.jupiter.api.Assertions.*
 
-class MainKtTest {
+class MainTest {
 
     @Test
     fun `0 should be transform to A`() {

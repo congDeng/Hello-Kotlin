@@ -1,2 +1,5 @@
 # Hello-Kotlin
-How to run: execute main method in Main.kt
+## transform numbers to excel column names
+    Run: execute main method in excel/Main.kt
+## output product list
+    Run: execute main method in product/ProductMain.kt
